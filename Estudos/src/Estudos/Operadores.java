@@ -15,5 +15,18 @@ public class Operadores {
 
         System.out.println(numero);
 
+        // OPERADORES DE ATRIBUIÇÃO
+        System.out.println(++ numero);
+// o ++ incrementa o valor em 1 a variavel, ou -1 na variavel com --.
+
+        boolean variavel = true;
+        System.out.println(!variavel);
+
+        variavel = !variavel;
+
+        System.out.println(variavel);
+
+
+
     }
 }
