@@ -1,4 +1,4 @@
-package Estudos;
+package Estudos.aprendizado;
 
 import java.util.Scanner;
 
