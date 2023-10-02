@@ -1,4 +1,4 @@
-package Estudos.aprendizado;
+package Estudos.aprendizado.argumentosMain;
 
 public class ArgumentosMain {
     public static  void main (String[] args){

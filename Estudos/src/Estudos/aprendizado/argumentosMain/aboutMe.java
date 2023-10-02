@@ -1,4 +1,4 @@
-package Estudos.aprendizado;
+package Estudos.aprendizado.argumentosMain;
 import java.util.InputMismatchException;
 import java.util.Locale;
 import java.util.Scanner;

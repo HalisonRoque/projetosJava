@@ -1,4 +1,6 @@
-package Estudos.aprendizado;
+package Estudos.aprendizado.criandoExcecoes;
+
+import Estudos.aprendizado.criandoExcecoes.CriandoExcecoes;
 
 public class formatandoCep {
     public static void main(String[] args){
