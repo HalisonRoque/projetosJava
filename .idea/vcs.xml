@@ -4,7 +4,9 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Estudos/src/Banco-Terminal" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Estudos/src/DesafioControleFluxo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Estudos/src/Diagramacao-de-Classes-do-iPhone-DesafioDeProjeto" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Estudos/src/Estudos/DesafioControleFluxoDio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Estudos/src/Lab-Padroes-Projetos-Java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Estudos/src/collections-java-api-2023" vcs="Git" />
   </component>
 </project>
