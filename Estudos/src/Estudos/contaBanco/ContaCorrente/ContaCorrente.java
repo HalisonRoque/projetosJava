@@ -10,15 +10,17 @@ public class ContaCorrente {
         this.idAgencia = idAgencia;
     }
 
-    public void exibirSaldo(){
+    public void ExibirSaldo(){
         System.out.println("saldo atual R$ " + this.saldo);
     }
+
+
     public void Depositar(int valorDeposito){
         this.saldo = this.saldo + valorDeposito;
-        System.out.println("seu saldo é R$ " + this.saldo + ".");
+        System.out.println("VALOR DEPOSITADO DE R$ " + this.saldo + ".");
     }
     public void Sacar(int valorSaque){
-        if(this.saldo >= 0){
+        if(this.saldo >= valorSaque){
             this.saldo = this.saldo - valorSaque;
             System.out.println("saque de R$ " + valorSaque + " realizado");
         } else{
